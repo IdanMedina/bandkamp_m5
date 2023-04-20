@@ -72,3 +72,5 @@ pytest --testdox -vvs tests/albums/
 ```python
 pytest --testdox -vvs tests/songs/
 ```
+
+"railway deploy url: web-production-bebd.up.railway.app"
